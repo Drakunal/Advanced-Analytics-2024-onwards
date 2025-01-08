@@ -10,6 +10,7 @@
 
 This repository contains all the labs files for Advanced Analytics, for DSA 
 6th Semester Students.  
+# You can change the branch and check the previous year's code as well
 
 ## Authors
 
@@ -17,14 +18,8 @@ This repository contains all the labs files for Advanced Analytics, for DSA
 
 # List of Experiments
 
-1. [Lab 1: Weather API](https://github.com/Drakunal/Advanced-Analytics-2024/tree/main/Lab%201)
-2. [Lab 2: Web Scraping - 1](https://github.com/Drakunal/Advanced-Analytics-2024/tree/main/Lab%202)
-3. [Lab 3: Web Scraping - 2](https://github.com/Drakunal/Advanced-Analytics-2024/tree/main/Lab%203)
-4. [Lab 4: Customer Churn Analysis](https://github.com/Drakunal/Advanced-Analytics-2024/tree/main/Lab%204) 
-5. [Lab 5: Gen AI - Gemini Basics](https://github.com/Drakunal/Advanced-Analytics-2024/tree/main/Lab%205)
-6. [Lab 6: Gen AI -  Gemini Text to text and Image to text Streamlit App](https://github.com/Drakunal/Advanced-Analytics-2024/tree/main/Lab%206)
-7. [Lab 7: Gen AI - PDF Analyzer, Chat and listen to PDF!](https://github.com/Drakunal/Advanced-Analytics-2024/tree/main/Lab%207)
-8. [Lab 8: Gen AI - Retail Store LLM](https://github.com/Drakunal/Advanced-Analytics-2024/tree/main/Lab%208)
+1. [Lab 1: Weather API](https://github.com/Drakunal/Advanced-Analytics-2024-onwards/tree/main/Lab%201)
+
 
 ## Run Locally
 

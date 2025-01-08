@@ -1,3 +1,0 @@
-streamlit==1.29
-google-generativeai
-python-dotenv

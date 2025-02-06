@@ -1,0 +1,458 @@
+[
+    {
+        "product": "Packard 255 G2",
+        "price": "$416.99"
+    },
+    {
+        "product": "Aspire E1-510",
+        "price": "$306.99"
+    },
+    {
+        "product": "ThinkPad T540p",
+        "price": "$1178.99"
+    },
+    {
+        "product": "ProBook",
+        "price": "$739.99"
+    },
+    {
+        "product": "ThinkPad X240",
+        "price": "$1311.99"
+    },
+    {
+        "product": "Aspire E1-572G",
+        "price": "$581.99"
+    },
+    {
+        "product": "ThinkPad Yoga",
+        "price": "$1033.99"
+    },
+    {
+        "product": "Pavilion",
+        "price": "$609.99"
+    },
+    {
+        "product": "Inspiron 15",
+        "price": "$745.99"
+    },
+    {
+        "product": "Dell XPS 13",
+        "price": "$1281.99"
+    },
+    {
+        "product": "ThinkPad X230",
+        "price": "$1244.99"
+    },
+    {
+        "product": "HP 250 G3",
+        "price": "$520.99"
+    },
+    {
+        "product": "ThinkPad Yoga",
+        "price": "$1223.99"
+    },
+    {
+        "product": "HP 350 G1",
+        "price": "$577.99"
+    },
+    {
+        "product": "Asus VivoBook...",
+        "price": "$399"
+    },
+    {
+        "product": "Dell Vostro 15",
+        "price": "$488.78"
+    },
+    {
+        "product": "Acer Spin 5",
+        "price": "$564.98"
+    },
+    {
+        "product": "Acer Aspire A5...",
+        "price": "$679"
+    },
+    {
+        "product": "Dell Inspiron...",
+        "price": "$679"
+    },
+    {
+        "product": "Asus VivoBook...",
+        "price": "$729"
+    },
+    {
+        "product": "Asus ROG STRIX...",
+        "price": "$799"
+    },
+    {
+        "product": "Acer Nitro 5 A...",
+        "price": "$809"
+    },
+    {
+        "product": "Asus ROG STRIX...",
+        "price": "$899"
+    },
+    {
+        "product": "Lenovo ThinkPa...",
+        "price": "$999"
+    },
+    {
+        "product": "Lenovo Legion...",
+        "price": "$1149"
+    },
+    {
+        "product": "Lenovo Legion...",
+        "price": "$1399"
+    },
+    {
+        "product": "Asus ROG Strix...",
+        "price": "$1769"
+    },
+    {
+        "product": "Asus ROG Strix...",
+        "price": "$1769"
+    },
+    {
+        "product": "Asus ROG Strix...",
+        "price": "$1799"
+    },
+    {
+        "product": "Asus VivoBook...",
+        "price": "$295.99"
+    },
+    {
+        "product": "Prestigio Smar...",
+        "price": "$299"
+    },
+    {
+        "product": "Prestigio Smar...",
+        "price": "$299"
+    },
+    {
+        "product": "Lenovo V110-15...",
+        "price": "$321.94"
+    },
+    {
+        "product": "Lenovo V110-15...",
+        "price": "$356.49"
+    },
+    {
+        "product": "Hewlett Packar...",
+        "price": "$364.46"
+    },
+    {
+        "product": "Acer Aspire 3...",
+        "price": "$372.7"
+    },
+    {
+        "product": "Acer Aspire A3...",
+        "price": "$379.94"
+    },
+    {
+        "product": "Acer Aspire ES...",
+        "price": "$379.95"
+    },
+    {
+        "product": "Acer Aspire 3...",
+        "price": "$391.48"
+    },
+    {
+        "product": "Acer Aspire 3...",
+        "price": "$393.88"
+    },
+    {
+        "product": "Asus VivoBook...",
+        "price": "$399.99"
+    },
+    {
+        "product": "Lenovo ThinkPa...",
+        "price": "$404.23"
+    },
+    {
+        "product": "Acer Aspire 3...",
+        "price": "$408.98"
+    },
+    {
+        "product": "Lenovo V110-15...",
+        "price": "$409.63"
+    },
+    {
+        "product": "Acer Aspire ES...",
+        "price": "$410.46"
+    },
+    {
+        "product": "Asus VivoBook...",
+        "price": "$410.66"
+    },
+    {
+        "product": "Asus EeeBook R...",
+        "price": "$433.3"
+    },
+    {
+        "product": "Acer Aspire 3...",
+        "price": "$436.29"
+    },
+    {
+        "product": "Acer Aspire ES...",
+        "price": "$436.29"
+    },
+    {
+        "product": "Acer Extensa 1...",
+        "price": "$439.73"
+    },
+    {
+        "product": "Acer Aspire ES...",
+        "price": "$454.62"
+    },
+    {
+        "product": "Lenovo V110-15...",
+        "price": "$454.73"
+    },
+    {
+        "product": "Acer Aspire A3...",
+        "price": "$457.38"
+    },
+    {
+        "product": "Lenovo V110-15...",
+        "price": "$465.95"
+    },
+    {
+        "product": "Asus VivoBook...",
+        "price": "$468.56"
+    },
+    {
+        "product": "Acer Aspire ES...",
+        "price": "$469.1"
+    },
+    {
+        "product": "Lenovo V510 Bl...",
+        "price": "$484.23"
+    },
+    {
+        "product": "Acer Aspire ES...",
+        "price": "$485.9"
+    },
+    {
+        "product": "Lenovo V510 Bl...",
+        "price": "$487.8"
+    },
+    {
+        "product": "Acer Swift 1 S...",
+        "price": "$488.64"
+    },
+    {
+        "product": "Acer Aspire 3...",
+        "price": "$494.71"
+    },
+    {
+        "product": "Dell Vostro 15...",
+        "price": "$497.17"
+    },
+    {
+        "product": "Lenovo V510 Bl...",
+        "price": "$498.23"
+    },
+    {
+        "product": "Lenovo ThinkPa...",
+        "price": "$1096.02"
+    },
+    {
+        "product": "Dell Inspiron...",
+        "price": "$1098.42"
+    },
+    {
+        "product": "MSI GL72M 7RDX",
+        "price": "$1099"
+    },
+    {
+        "product": "MSI GL72M 7RDX",
+        "price": "$1099"
+    },
+    {
+        "product": "Asus ROG Strix...",
+        "price": "$1101.83"
+    },
+    {
+        "product": "Dell Latitude...",
+        "price": "$1102.66"
+    },
+    {
+        "product": "Dell Latitude...",
+        "price": "$1110.14"
+    },
+    {
+        "product": "Lenovo Legion...",
+        "price": "$1112.91"
+    },
+    {
+        "product": "Toshiba Porteg...",
+        "price": "$1114.55"
+    },
+    {
+        "product": "Acer Predator...",
+        "price": "$1123.87"
+    },
+    {
+        "product": "Acer Aspire 7...",
+        "price": "$1123.87"
+    },
+    {
+        "product": "Dell Inspiron...",
+        "price": "$1124.2"
+    },
+    {
+        "product": "Dell Latitude...",
+        "price": "$1133.82"
+    },
+    {
+        "product": "Lenovo Legion...",
+        "price": "$1133.91"
+    },
+    {
+        "product": "Asus AsusPro A...",
+        "price": "$1139.54"
+    },
+    {
+        "product": "Acer Nitro 5 A...",
+        "price": "$1140.62"
+    },
+    {
+        "product": "Dell Latitude...",
+        "price": "$1143.4"
+    },
+    {
+        "product": "Dell Inspiron...",
+        "price": "$1144.2"
+    },
+    {
+        "product": "Dell Latitude...",
+        "price": "$1144.4"
+    },
+    {
+        "product": "MSI GP62M 7RDX...",
+        "price": "$1149"
+    },
+    {
+        "product": "Lenovo Yoga 72...",
+        "price": "$1149.73"
+    },
+    {
+        "product": "Toshiba Porteg...",
+        "price": "$1154.04"
+    },
+    {
+        "product": "Acer TravelMat...",
+        "price": "$1170.1"
+    },
+    {
+        "product": "Dell Latitude...",
+        "price": "$1178.19"
+    },
+    {
+        "product": "MSI GS63 7RD S...",
+        "price": "$1179"
+    },
+    {
+        "product": "Dell Latitude...",
+        "price": "$1187.88"
+    },
+    {
+        "product": "Acer Predator...",
+        "price": "$1187.98"
+    },
+    {
+        "product": "MSI GL62M 7REX",
+        "price": "$1199"
+    },
+    {
+        "product": "MSI GL62M 7REX...",
+        "price": "$1199"
+    },
+    {
+        "product": "Lenovo Yoga 91...",
+        "price": "$1199.73"
+    },
+    {
+        "product": "Toshiba Porteg...",
+        "price": "$1203.41"
+    },
+    {
+        "product": "Lenovo IdeaPad...",
+        "price": "$1212.16"
+    },
+    {
+        "product": "Acer Predator...",
+        "price": "$1221.58"
+    },
+    {
+        "product": "Asus VivoBook...",
+        "price": "$1235.49"
+    },
+    {
+        "product": "Dell Latitude...",
+        "price": "$1238.37"
+    },
+    {
+        "product": "Asus ZenBook U...",
+        "price": "$1239.2"
+    },
+    {
+        "product": "Asus ROG Strix...",
+        "price": "$1259"
+    },
+    {
+        "product": "Apple MacBook...",
+        "price": "$1260.13"
+    },
+    {
+        "product": "Dell Latitude...",
+        "price": "$1271.06"
+    },
+    {
+        "product": "Hewlett Packar...",
+        "price": "$1273.11"
+    },
+    {
+        "product": "Toshiba Porteg...",
+        "price": "$1294.74"
+    },
+    {
+        "product": "MSI GL62VR 7RF...",
+        "price": "$1299"
+    },
+    {
+        "product": "Dell Latitude...",
+        "price": "$1310.39"
+    },
+    {
+        "product": "Hewlett Packar...",
+        "price": "$1326.83"
+    },
+    {
+        "product": "Apple MacBook...",
+        "price": "$1333"
+    },
+    {
+        "product": "Dell Latitude...",
+        "price": "$1337.28"
+    },
+    {
+        "product": "Dell Latitude...",
+        "price": "$1338.37"
+    },
+    {
+        "product": "Dell Latitude...",
+        "price": "$1341.22"
+    },
+    {
+        "product": "Apple MacBook...",
+        "price": "$1347.78"
+    },
+    {
+        "product": "Lenovo ThinkPa...",
+        "price": "$1349.23"
+    },
+    {
+        "product": "Lenovo ThinkPa...",
+        "price": "$1362.24"
+    }
+]

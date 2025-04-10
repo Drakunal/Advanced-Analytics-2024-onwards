@@ -1,0 +1,4 @@
+GOOGLE_API_KEY = ''
+password = ''
+user = ""
+host = ""
